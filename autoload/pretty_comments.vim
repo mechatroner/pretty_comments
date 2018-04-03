@@ -8,6 +8,7 @@ let s:comment_map = {
     \   "go": ['//', ''],
     \   "java": ['//', ''],
     \   "javascript": ['//', ''],
+    \   "typescript": ['//', ''],
     \   "php": ['//', ''],
     \   "python": ['#', ''],
     \   "ruby": ['#', ''],
